@@ -1,6 +1,6 @@
 site:
   title: "Hilscher Demo-Portal"
-  url: https://example.com
+  url: https://github.io
 content:
   sources:
     - url: ./
@@ -8,6 +8,6 @@ content:
       start_path: docs
 ui:
   bundle:
-    url: ""
+    url: https://gitlab.com
 output:
-  dir: ./build/site
+  dir: ./public
