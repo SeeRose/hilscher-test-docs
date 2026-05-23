@@ -1,0 +1,5 @@
+= Willkommen im NetX Handbuch
+
+Dies ist meine erste, lokal gerenderte Testseite auf meinem Mac für den Docs-as-Code Workflow bei Hilscher.
+
+Und ich werde noch viel mehr dazu schreiben...

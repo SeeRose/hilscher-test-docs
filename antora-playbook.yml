@@ -1,0 +1,13 @@
+site:
+  title: "Hilscher Demo-Portal"
+  url: https://example.com
+content:
+  sources:
+    - url: ./
+      branches: HEAD
+      start_path: docs
+ui:
+  bundle:
+    url: ""
+output:
+  dir: ./build/site
